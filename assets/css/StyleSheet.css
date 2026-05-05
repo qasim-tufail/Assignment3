@@ -419,3 +419,49 @@ nav {
             padding: 13px 28px;
             cursor: pointer;
         }
+        .sec6 {
+            background-color: #2925cc;
+            padding: 90px 40px;
+            text-align: center;
+        }
+
+        .sec6 h2 {
+            font-size: 42px;
+            font-weight: bold;
+            color: white;
+            margin-bottom: 25px;
+        }
+
+        .sec6 p {
+            font-size: 16px;
+            color: #ccc;
+            margin-bottom: 45px;
+        }
+
+        .sec6-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .sec6-btn-iphone {
+            background-color: #f5a623;
+            color: #02033b;
+            font-weight: bold;
+            font-size: 15px;
+            border: none;
+            border-radius: 30px;
+            padding: 16px 32px;
+            cursor: pointer;
+        }
+
+        .sec6-btn-android {
+            background-color: transparent;
+            color: white;
+            font-weight: bold;
+            font-size: 15px;
+            border: 2px solid white;
+            border-radius: 30px;
+            padding: 16px 32px;
+            cursor: pointer;
+        }
