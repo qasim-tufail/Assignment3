@@ -734,3 +734,15 @@ nav {
             padding: 13px 22px;
             cursor: pointer;
         }
+        .footer-bottom {
+            margin-top: 50px;
+            border-top: 1px solid #1a1f6a;
+            padding-top: 25px;
+        }
+
+        .footer-bottom p {
+            color: white;
+            font-size: 12px;
+            line-height: 1.7;
+            max-width: 600px;
+        }
