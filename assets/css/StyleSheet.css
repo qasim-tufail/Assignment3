@@ -147,3 +147,55 @@ nav {
             top: -25px;
             left: -220px;
         }
+        .sec2 {
+            background: linear-gradient(to bottom, #f7c95f, #fdb235);
+            padding: 60px 20px;
+        }
+
+        .review-heading {
+            font-size: 32px;
+            font-weight: bold;
+            color: #02033b;
+            margin-bottom: 40px;
+        }
+
+        .custom-card {
+            height: 320px;
+            border-radius: 30px;
+            padding: 20px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .feedback {
+            color: #02033b;
+        }
+
+        .stars {
+            margin-bottom: 10px;
+        }
+
+        .stars img {
+            width: 18px;
+        }
+
+        .logos {
+            display: flex;
+            flex-direction: row;
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        .logosImages {
+            margin-left: 250px;
+        }
+
+        .logos img {
+            width: 100px;
+            padding-left: 20px;
+        }
+
+        .featured-text {
+            font-weight: bold;
+            color: #02033b;
+            margin-left: 50px;
+        }
